@@ -1,5 +1,5 @@
 # Ihre Revolution (Her Revolution)
-Project with the theme of street signs with female name in Berlin. 
+AR Project with the theme of street signs with female name in Berlin. 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -42,8 +42,6 @@ Project with the theme of street signs with female name in Berlin.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * Unity 2020.3.24f1
 * AR Foundation
 * C#
@@ -55,34 +53,18 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* IhreRevolution app.
+
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+1. app. Download [Here](https://drive.google.com/file/d/1qpYIcEmxCgMl2c-wXpsYNWekiY24d4Lp/view?usp=sharing)
+2. Install on your Smart Device
+3. Run
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -90,8 +72,17 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Hold the Smart Device in front of the attached image on street sign pillar and fit the image within the camera view to scan.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+* image location
+  ```
+  * Rosa-Luxemburg-Straße
+  * Melli-Beese-Straße
+  * Kollwitzstraße
+  * Lise-Meitner-Straße
+  * Bertha-Benz-Straße
+  ```
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
