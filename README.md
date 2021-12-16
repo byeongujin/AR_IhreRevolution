@@ -35,6 +35,8 @@ AR Project with the theme of street signs with female name in Berlin.
 
 <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot1.png" width = "300" height = "500"> <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot2.png" width = "300" height = "500">
 
+Watch [Demo video](https://drive.google.com/drive/folders/1jSU6mGa_w9yQfNTAtduaV9eYeY8KYl_z?usp=sharing)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -66,7 +68,7 @@ AR Project with the theme of street signs with female name in Berlin.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Hold the Smart Device in front of the attached image on street sign pillar and fit the image within the camera view to scan.
+Hold the Smart Device in front of the _attached image on street sign pillar_ and fit the image within the camera view to scan.
 
 * image location
   ```
