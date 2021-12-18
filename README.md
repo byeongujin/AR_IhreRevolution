@@ -1,5 +1,5 @@
 # Ihre Revolution (Her Revolution)
-AR Project with the theme of street signs with female name in Berlin. 
+AR Project with the theme of street signs with a female name in Berlin. 
 
 
 <!-- TABLE OF CONTENTS -->
