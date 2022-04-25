@@ -134,10 +134,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: melli
       objectReference: {fileID: 0}
-    - target: {fileID: 6870757109590773596, guid: 28b0b05c572564ec1b10272612c4d7df, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6870757109590782113, guid: 28b0b05c572564ec1b10272612c4d7df, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -194,10 +190,6 @@ PrefabInstance:
     - target: {fileID: 6870757109590773596, guid: c72ff6cf5e2124705b5172cc68facb7e, type: 3}
       propertyPath: m_Name
       value: rosa
-      objectReference: {fileID: 0}
-    - target: {fileID: 6870757109590773596, guid: c72ff6cf5e2124705b5172cc68facb7e, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6870757109590782113, guid: c72ff6cf5e2124705b5172cc68facb7e, type: 3}
       propertyPath: m_RootOrder
@@ -677,10 +669,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: lise
       objectReference: {fileID: 0}
-    - target: {fileID: 6870757109590773596, guid: 1851b5e6a5f0c4140b2315115a2479a8, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6870757109590782113, guid: 1851b5e6a5f0c4140b2315115a2479a8, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -737,10 +725,6 @@ PrefabInstance:
     - target: {fileID: 6870757109590773596, guid: 81512b388b5e148b481624ed7e883585, type: 3}
       propertyPath: m_Name
       value: kaethe
-      objectReference: {fileID: 0}
-    - target: {fileID: 6870757109590773596, guid: 81512b388b5e148b481624ed7e883585, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6870757109590782113, guid: 81512b388b5e148b481624ed7e883585, type: 3}
       propertyPath: m_RootOrder
