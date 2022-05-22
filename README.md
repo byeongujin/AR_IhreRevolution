@@ -41,7 +41,7 @@ Watch [Demo video](https://drive.google.com/drive/folders/1jSU6mGa_w9yQfNTAtduaV
 
 ### Built With
 
-* Unity 2020.3.24f1
+* Unity 2021.3.0f1
 * AR Foundation
 * C#
 
@@ -87,7 +87,7 @@ For more information, please refer to the [Project Hompage](http://oktopusmagazi
 
 <!-- LANGUAGE -->
 ## Language
-Korean, German
+Korean, English
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
