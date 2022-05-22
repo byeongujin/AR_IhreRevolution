@@ -1,0 +1,315 @@
+Unity Editor version:    2021.3.0f1 (6eacc8284459)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.3.1 (Build 21E258)
+Darwin version:          21.4.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jinbyeong-u/Desktop/GitHub/AR_IhreRevolution/Ihre Revolution
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51236
+Successfully changed project path to: /Users/jinbyeong-u/Desktop/GitHub/AR_IhreRevolution/Ihre Revolution
+/Users/jinbyeong-u/Desktop/GitHub/AR_IhreRevolution/Ihre Revolution
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 34.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.0f1 (6eacc8284459)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jinbyeong-u/Desktop/GitHub/AR_IhreRevolution/Ihre Revolution/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Forcing user selected device: Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.0f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001787 seconds.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 30.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.386 seconds
+Domain Reload Profiling:
+	ReloadAssembly (386ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (251ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (69ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (135ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (31ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (50ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002441 seconds.
+Android Extension - Scanning For ADB Devices 553 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 28.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  0.634 seconds
+Domain Reload Profiling:
+	ReloadAssembly (635ms)
+		BeginReloadAssembly (62ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (508ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (120ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (237ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (29ms)
+				BeforeProcessingInitializeOnLoad (44ms)
+				ProcessInitializeOnLoadAttributes (145ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2431 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (277.8 KB). Loaded Objects now: 2900.
+Memory consumption went from 210.8 MB to 210.6 MB.
+Total: 2.347833 ms (FindLiveObjects: 0.101042 ms CreateObjectMapping: 0.028541 ms MarkObjects: 2.136125 ms  DeleteObjects: 0.081583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 27654.470006 seconds.
+  path: Assets/imageTracking/bertha.mp4
+  artifactKey: Guid(669bbce65632a4fc1adf28422edf7961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/bertha.mp4 using Guid(669bbce65632a4fc1adf28422edf7961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '725859003200f0d4b1334a5bd82c87d8') in 0.407564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.009529 seconds.
+  path: Assets/imageTracking/Bertha Benz.mp4
+  artifactKey: Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Bertha Benz.mp4 using Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8caf8cb8235f70e11d09db22b0dae07') in 0.002874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.647203 seconds.
+  path: Assets/imageTracking/bertha.png
+  artifactKey: Guid(5fe958ebdc62e4be282e0315ed123a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/bertha.png using Guid(5fe958ebdc62e4be282e0315ed123a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6f777b184b1c6c7b33a5e0b17e108d') in 0.421545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.112199 seconds.
+  path: Assets/imageTracking/Bertha Benz.mp4
+  artifactKey: Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Bertha Benz.mp4 using Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd983db13464556fa96c9f25cd8924c04') in 0.003075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.072653 seconds.
+  path: Assets/imageTracking/Bertha Benz.mp4
+  artifactKey: Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Bertha Benz.mp4 using Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1453539f9cf2651383aab309d53110f0') in 0.001115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.330302 seconds.
+  path: Assets/imageTracking/kaethe.mp4
+  artifactKey: Guid(509634080f96e4966b2134c5190dcc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/kaethe.mp4 using Guid(509634080f96e4966b2134c5190dcc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf22b17a0cc64cd4b1d01889d45858cf') in 0.001906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.898960 seconds.
+  path: Assets/imageTracking/Käthe kollwitz.mp4
+  artifactKey: Guid(b98e715e4d1044ff6bb605825f5f15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Käthe kollwitz.mp4 using Guid(b98e715e4d1044ff6bb605825f5f15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9394a99e3946556e6a4b70a75657fb08') in 0.001895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.789627 seconds.
+  path: Assets/imageTracking/Käthe kollwitz.mp4
+  artifactKey: Guid(b98e715e4d1044ff6bb605825f5f15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Käthe kollwitz.mp4 using Guid(b98e715e4d1044ff6bb605825f5f15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e6ff2bcf6fc3a3f16c58c2c45d2727') in 0.001506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.849149 seconds.
+  path: Assets/imageTracking/Lise Meitner.mp4
+  artifactKey: Guid(64141752037da4fee9504a3e84800294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Lise Meitner.mp4 using Guid(64141752037da4fee9504a3e84800294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41dd98785f816e739524d4a08a759c45') in 0.002436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.041511 seconds.
+  path: Assets/imageTracking/Lise Meitner.mp4
+  artifactKey: Guid(64141752037da4fee9504a3e84800294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Lise Meitner.mp4 using Guid(64141752037da4fee9504a3e84800294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc71e65506fc5154e0c5e635f8607b34') in 0.003163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.279009 seconds.
+  path: Assets/imageTracking/Melli Beese.mp4
+  artifactKey: Guid(459b8823ba5b44331977ba3523b9a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Melli Beese.mp4 using Guid(459b8823ba5b44331977ba3523b9a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5bb60d99014594e797a8d89b2878b6') in 0.001569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.933070 seconds.
+  path: Assets/imageTracking/Melli Beese.mp4
+  artifactKey: Guid(459b8823ba5b44331977ba3523b9a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Melli Beese.mp4 using Guid(459b8823ba5b44331977ba3523b9a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1190d8d1e55ed25042a661c0e8eb3e') in 0.001393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.953998 seconds.
+  path: Assets/imageTracking/Rosa Luxemburg.mp4
+  artifactKey: Guid(d9bd95fe8911a4a4da689301f9e58e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Rosa Luxemburg.mp4 using Guid(d9bd95fe8911a4a4da689301f9e58e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3747a757d6ff9c4420f30de0934aca') in 0.001609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.303324 seconds.
+  path: Assets/imageTracking/Rosa Luxemburg.mp4
+  artifactKey: Guid(d9bd95fe8911a4a4da689301f9e58e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/Rosa Luxemburg.mp4 using Guid(d9bd95fe8911a4a4da689301f9e58e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd91d41b7c5494771b1503dff20090f7') in 0.001259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.327722 seconds.
+  path: Assets/imageTracking/bertha.mp4
+  artifactKey: Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/bertha.mp4 using Guid(1100f2de89f4a49d2bef857e5de256cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bfa15acfe9aef5ca8530b4f68b56a7') in 0.001156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.351149 seconds.
+  path: Assets/imageTracking/kaethe.mp4
+  artifactKey: Guid(b98e715e4d1044ff6bb605825f5f15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/kaethe.mp4 using Guid(b98e715e4d1044ff6bb605825f5f15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b138211fca4e588a7d1ed34a9a52a083') in 0.001792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.129994 seconds.
+  path: Assets/imageTracking/lise.mp4
+  artifactKey: Guid(64141752037da4fee9504a3e84800294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/lise.mp4 using Guid(64141752037da4fee9504a3e84800294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97d9e34cd93f222ebc0648702fb93f1') in 0.001906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.221102 seconds.
+  path: Assets/imageTracking/rosa.mp4
+  artifactKey: Guid(d9bd95fe8911a4a4da689301f9e58e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/rosa.mp4 using Guid(d9bd95fe8911a4a4da689301f9e58e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0110627d02d60901fe584c2a07a35f81') in 0.001422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.449262 seconds.
+  path: Assets/imageTracking/melli.mp4
+  artifactKey: Guid(459b8823ba5b44331977ba3523b9a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/melli.mp4 using Guid(459b8823ba5b44331977ba3523b9a937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ede65e98a75587e8d9117c47ca85048') in 0.001174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.436382 seconds.
+  path: Assets/imageTracking/ReferenceImageLibrary.asset
+  artifactKey: Guid(5d2c80679e0644b359b86d59532d4a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/ReferenceImageLibrary.asset using Guid(5d2c80679e0644b359b86d59532d4a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8d9c76d8101295eb194d895546af20') in 0.561546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/imageTracking/kaethe.png
+  artifactKey: Guid(6c3cf8e1355ad44468476b80944dbdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imageTracking/kaethe.png using Guid(6c3cf8e1355ad44468476b80944dbdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e94465f2168c691d92ecd40e84b34e6') in 0.017065 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (239.5 KB). Loaded Objects now: 2903.
+Memory consumption went from 173.1 MB to 172.8 MB.
+Total: 24.473292 ms (FindLiveObjects: 0.167791 ms CreateObjectMapping: 0.029167 ms MarkObjects: 24.077333 ms  DeleteObjects: 0.198417 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
