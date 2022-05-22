@@ -58,7 +58,7 @@ Watch [Demo video](https://drive.google.com/file/d/1z4qE5wT6to-chjyh34OZdqPgw5AC
 
 ### Installation
 
-1. app. Download(Android) [Here](https://drive.google.com/file/d/1qpYIcEmxCgMl2c-wXpsYNWekiY24d4Lp/view?usp=sharing)
+1. app. Download(Android) [Here](https://drive.google.com/file/d/1242FpHJS1eW4LsYDBojWm1zP22N5LEKL/view?usp=sharing)
 2. Install on your Smart Device
 3. Run
 
