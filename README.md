@@ -35,7 +35,7 @@ AR Project with the theme of street signs with a female name in Berlin.
 
 <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot1.png" width = "300" height = "500"> <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot2.png" width = "300" height = "500">
 
-Watch [Demo video](https://drive.google.com/drive/folders/1jSU6mGa_w9yQfNTAtduaV9eYeY8KYl_z?usp=sharing](https://drive.google.com/file/d/1z4qE5wT6to-chjyh34OZdqPgw5ACTi5n/view?usp=sharing)
+Watch [Demo video](https://drive.google.com/file/d/1z4qE5wT6to-chjyh34OZdqPgw5ACTi5n/view?usp=sharing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
